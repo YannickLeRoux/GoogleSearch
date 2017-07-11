@@ -7,4 +7,6 @@ tracks download links. I needed to automate this boring process and save myself 
 
 3/ For each song, try to find a zippyshare download link via a simple Google Search( I know that bad, buy music! )
 
+Very basic but it works! (and I m just learning!)
+
 
