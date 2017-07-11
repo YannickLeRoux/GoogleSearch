@@ -23,6 +23,8 @@ html = urlopen(MY_URL)
 soup = BeautifulSoup (html,'html.parser')
 soup = soup.get_text()
 
+#this regex is going to find the text that is after 01. et 02. and so on
+#then add the artist-title string to a list
 rg = re.compile('(?<=\d{2}\.\s).+?(?=\d{2}\.|$)')
 trackList = rg.findall(soup)
 
