@@ -1,5 +1,5 @@
-A created this Python 3 program as I had to go thru a lot of different podcasts and find 
-tracks download links. I needed to automate this boring process and save myself time.
+I created this Python 3 program as I had to go thru a lot of different podcasts and find 
+tracks download links. I needed to automate this boring process and save myself time!
 
 1/ Open the podcast URL
 
